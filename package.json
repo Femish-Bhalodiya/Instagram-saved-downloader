@@ -1,0 +1,33 @@
+{
+  "name": "instagram-saved-downloader",
+  "version": "1.0.0",
+  "description": "Web scrapper to download instagram saved posts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Femish-Bhalodiya/Instagram-saved-downloader.git"
+  },
+  "author": "Femish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Femish-Bhalodiya/Instagram-saved-downloader/issues"
+  },
+  "homepage": "https://github.com/Femish-Bhalodiya/Instagram-saved-downloader#readme",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "puppeteer": "^20.9.0",
+    "snapsave-downloader": "^6.9.5"
+  }
+}
