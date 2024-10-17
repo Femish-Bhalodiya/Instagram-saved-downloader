@@ -28,6 +28,6 @@
     "axios": "^1.4.0",
     "dotenv": "^16.3.1",
     "puppeteer": "^20.9.0",
-    "snapsave-downloader": "^6.9.5"
+    "snapsave-downloader2": "^6.9.5"
   }
 }

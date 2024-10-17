@@ -1,4 +1,4 @@
-const snapsave = require('snapsave-downloader');
+const snapsave = require('snapsave-downloader2');
 
 async function generateCDNLink(url) {
   try {
